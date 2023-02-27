@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhanwan
-- 👀 I’m interested in Devops Engineering, aws Cloud Engineering 
+- 👀 I’m interested in Devops Engineering, AWS Cloud Engineering 
 - 🌱 I’m currently working on Cloud Services
 - 💞️ And I am Looking for new job as Devops Enigneer.
 - 📫 How to reach me :- dhanwanprajapati@gmail.com .
